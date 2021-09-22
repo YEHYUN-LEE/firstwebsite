@@ -1,0 +1,105 @@
+<!doctype html>
+
+<html>
+<head>
+  <title>HTML - 반려견 이멍밍을 소개합니다</title>
+  <meta charset="utf-8">
+</head>
+<body>
+<h1><a href="index.html">HTML</a></h1>
+<ol>
+  <li><a href="1.html">성별</a></li>
+  <li><a href="2.html">생일<a/></li>
+  <li><a href="3.html">장기</a></li>
+  <li><a href="4.html">좋아하는 음식</a></li>
+</ol>
+ 
+<h2>생일</h2>
+ 
+2016년 7월 26일생입니다.
+</body>
+</html>
+<!doctype html>
+
+<html>
+<head>
+  <title>HTML - 반려견 이멍밍을 소개합니다</title>
+  <meta charset="utf-8">
+</head>
+<body>
+<h1><a href="index.html">HTML</a></h1>
+<ol>
+  <li><a href="1.html">성별</a></li>
+  <li><a href="2.html">생일<a/></li>
+  <li><a href="3.html">장기</a></li>
+  <li><a href="4.html">좋아하는 음식</a></li>
+</ol>
+ 
+<h2>장기</h2>
+ 
+앉아, 엎드려, 하이파이브, 손, 총맞기, 기다려, 돌기, 다리꼬기, 코 내밀기, 뽀뽀 등
+</body>
+</html>
+<!doctype html>
+
+<html>
+<head>
+  <title>HTML - 반려견 이멍밍을 소개합니다</title>
+  <meta charset="utf-8">
+</head>
+<body>
+<h1><a href="index.html">HTML</a></h1>
+<ol>
+  <li><a href="1.html">성별</a></li>
+  <li><a href="2.html">생일<a/></li>
+  <li><a href="3.html">장기</a></li>
+  <li><a href="4.html">좋아하는 음식</a></li>
+</ol>
+ 
+<h2>좋아하는 음식</h2>
+ 
+고기, 우유, 만두, 개껌 등
+</body>
+</html>
+<!doctype html>
+
+<html>
+<head>
+  <title>HTML - 반려견 이멍밍을 소개합니다</title>
+  <meta charset="utf-8">
+</head>
+<body>
+<h1><a href="index.html">HTML</a></h1>
+<ol>
+  <li><a href="1.html">성별</a></li>
+  <li><a href="2.html">생일<a/></li>
+  <li><a href="3.html">장기</a></li>
+  <li><a href="4.html">좋아하는 음식</a></li>
+</ol>
+ 
+<h2>이멍밍</h2>
+ 
+이멍밍에 대해 알아봅시다. 
+</body>
+</html>
+<!doctype html>
+
+<html>
+<head>
+  <title>HTML - 반려견 이멍밍을 소개합니다</title>
+  <meta charset="utf-8">
+</head>
+<body>
+<h1><a href="index.html">HTML</a></h1>
+<ol>
+  <li><a href="1.html">성별</a></li>
+  <li><a href="2.html">생일<a/></li>
+  <li><a href="3.html">장기</a></li>
+  <li><a href="4.html">좋아하는 음식</a></li>
+</ol>
+ 
+<h2>성별</h2>
+ 
+남아입니다. 
+</body>
+</html>
